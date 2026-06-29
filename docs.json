@@ -35,8 +35,8 @@
             "group": "Platform",
             "pages": [
               "dashboard/overview",
-              "find-ideas/overview",
-              "content-library/overview",
+              "trend-magnet/overview",
+              "social-suite/overview",
               "calendar/overview",
               "performance/overview"
             ]
@@ -102,7 +102,7 @@
             "pages": [
               "guides/full-setup-guide",
               "guides/ai-interviews",
-              "guides/agent-studio-setup",
+              "guides/super-agent-setup",
               "guides/twin-tutorial",
               "guides/top-workflows",
               "guides/grow-content-audience-revenue"
@@ -111,24 +111,24 @@
         ]
       },
       {
-        "tab": "Agent Studio",
+        "tab": "Super Agent",
         "groups": [
           {
             "group": "Getting Started",
-            "pages": ["agent-studio/getting-started"]
+            "pages": ["super-agent/getting-started"]
           },
           {
             "group": "Advanced",
-            "pages": ["agent-studio/advanced"]
+            "pages": ["super-agent/advanced"]
           },
           {
             "group": "Playbooks",
-            "pages": ["agent-studio/playbooks"]
+            "pages": ["super-agent/playbooks"]
           },
           {
             "group": "Roadmap",
             "pages": [
-              "agent-studio/agents-managing-agents"
+              "super-agent/agents-managing-agents"
             ]
           }
         ]
