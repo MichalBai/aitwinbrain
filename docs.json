@@ -19,7 +19,7 @@
     "primary": {
       "type": "button",
       "label": "Go to AI TwinBrain",
-      "href": "https://app.aitwinbrain.ai"
+      "href": "https://app.aitwinbrain.com"
     }
   },
   "navigation": {
@@ -29,7 +29,7 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": ["introduction", "quickstart", "credits"]
+            "pages": ["introduction", "credits"]
           },
           {
             "group": "Platform",
@@ -76,20 +76,9 @@
             ]
           },
           {
-            "group": "Agencies",
-            "pages": [
-              "agencies/white-label",
-              "agencies/client-management",
-              "agencies/interview-links"
-            ]
-          },
-          {
             "group": "Account",
             "pages": [
-              "account/plans",
-              "account/credits",
-              "account/faq",
-              "mobile/overview"
+              "account/credits"
             ]
           }
         ]
