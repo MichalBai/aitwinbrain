@@ -1,0 +1,138 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "AI TwinBrain",
+  "theme": "aspen",
+  "logo": {
+    "light": "/logo/aitwinbrain-logo.png",
+    "dark": "/logo/aitwinbrain-logo.png"
+  },
+  "favicon": "https://media.brand.dev/fc3de6b1-ec4e-4d38-901f-b10f13d4e1d9.png",
+  "colors": {
+    "primary": "#311133",
+    "light": "#ffffff",
+    "dark": "#000000"
+  },
+  "contextual": {
+    "options": ["assistant"]
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Go to AI TwinBrain",
+      "href": "https://app.aitwinbrain.ai"
+    }
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Help Center",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": ["introduction", "quickstart", "credits"]
+          },
+          {
+            "group": "Platform",
+            "pages": [
+              "dashboard/overview",
+              "find-ideas/overview",
+              "content-library/overview",
+              "calendar/overview",
+              "performance/overview"
+            ]
+          },
+          {
+            "group": "Creating Content",
+            "pages": [
+              "creating-content/overview",
+              "creating-content/explore-ideas",
+              "creating-content/instant-creation",
+              "creating-content/plan-ahead",
+              "creating-content/interview",
+              "creating-content/editor"
+            ]
+          },
+          {
+            "group": "Knowledge",
+            "pages": [
+              "knowledge/identityos",
+              "knowledge/saved-ideas"
+            ]
+          },
+          {
+            "group": "Newsroom",
+            "pages": [
+              "newsroom/overview",
+              "newsroom/setup",
+              "newsroom/press-kit",
+              "newsroom/custom-domain"
+            ]
+          },
+          {
+            "group": "Publish & Distribute",
+            "pages": [
+              "integrations/overview",
+              "integrations/marketplace"
+            ]
+          },
+          {
+            "group": "Agencies",
+            "pages": [
+              "agencies/white-label",
+              "agencies/client-management",
+              "agencies/interview-links"
+            ]
+          },
+          {
+            "group": "Account",
+            "pages": [
+              "account/plans",
+              "account/credits",
+              "account/faq",
+              "mobile/overview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Guides",
+            "pages": [
+              "guides/full-setup-guide",
+              "guides/ai-interviews",
+              "guides/agent-studio-setup",
+              "guides/twin-tutorial",
+              "guides/top-workflows",
+              "guides/grow-content-audience-revenue"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Agent Studio",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": ["agent-studio/getting-started"]
+          },
+          {
+            "group": "Advanced",
+            "pages": ["agent-studio/advanced"]
+          },
+          {
+            "group": "Playbooks",
+            "pages": ["agent-studio/playbooks"]
+          },
+          {
+            "group": "Roadmap",
+            "pages": [
+              "agent-studio/agents-managing-agents"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
