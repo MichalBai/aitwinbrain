@@ -6,7 +6,7 @@
     "light": "/logo/aitwinbrain-logo.png",
     "dark": "/logo/aitwinbrain-logo.png"
   },
-  "favicon": "https://media.brand.dev/fc3de6b1-ec4e-4d38-901f-b10f13d4e1d9.png",
+  "favicon": "/logo/favicon-aitwinbrain.png",
   "colors": {
     "primary": "#311133",
     "light": "#ffffff",
